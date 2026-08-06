@@ -2,4 +2,4 @@
 title: Documentation Governance
 ---
  
-SME reviews, versioning, ownership, and standards.
+SME reviews, versioning, ownership, and standards and more.
